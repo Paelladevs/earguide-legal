@@ -1,0 +1,32 @@
+POLÍTICA DE PRIVACIDAD DE EARGUIDE
+Última actualización: 9 de abril de 2026
+1. RESPONSABLE DEL TRATAMIENTO
+Titular: [Tu Nombre Completo o Empresa]
+App: EarGuide
+Contacto: [Tu Email de Soporte]
+2. DATOS RECOPILADOS Y USO DE FIREBASE
+EarGuide utiliza los servicios de Google Firebase para mejorar la funcionalidad y estabilidad de la aplicación.
+Datos de rendimiento: Se recopilan de forma automática datos sobre errores (Crashlytics) y telemetría para asegurar que la app funcione correctamente.
+Identificadores de dispositivo: Firebase puede utilizar identificadores técnicos para analíticas agregadas (uso de funciones, tiempo de sesión). Estos datos no permiten identificarle personalmente de forma directa.
+Ubicación: Se accede a la geolocalización para activar las audioguías. Este procesamiento es local, aunque las herramientas de analítica pueden registrar la región general del usuario.
+3. PUBLICIDAD Y SERVICIOS DE TERCEROS
+La aplicación puede mostrar publicidad para financiar el servicio.
+Proveedores de anuncios: Podemos utilizar redes de terceros (como Google AdMob). Estas redes pueden utilizar identificadores de publicidad de su dispositivo (AAID en Android, IDFA en iOS) para servir anuncios, incluso personalizados.
+Control del usuario: Usted puede limitar el seguimiento publicitario o restablecer su ID de publicidad desde los ajustes de privacidad de su sistema operativo (Android/iOS).
+4. BASE LEGAL DEL TRATAMIENTO (GDPR)
+El tratamiento de sus datos se basa en:
+Ejecución del servicio: Necesaria para proporcionar las audioguías basadas en ubicación.
+Interés legítimo: Para el mantenimiento técnico (Firebase) y la viabilidad económica del proyecto a través de anuncios.
+5. TRANSFERENCIAS INTERNACIONALES
+Al utilizar Firebase y redes de anuncios, sus datos técnicos pueden ser procesados en servidores ubicados fuera del Espacio Económico Europeo (principalmente en EE. UU.). Estos proveedores operan bajo las Cláusulas Contractuales Tipo aprobadas por la Comisión Europea para garantizar la seguridad de la información.
+6. DERECHOS DEL USUARIO
+Usted tiene derecho a:
+Acceder, rectificar o suprimir cualquier dato técnico asociado a su instancia de la aplicación.
+Retirar el consentimiento para el uso de su ubicación o identificadores de publicidad mediante los ajustes de su dispositivo.
+Para cualquier solicitud, contacte con: [Tu Email de Soporte].
+7. PRIVACIDAD DE MENORES
+EarGuide no solicita datos personales a menores de 13 años. Dado que la app incluye anuncios, recomendamos la supervisión de adultos para asegurar un uso adecuado de los identificadores de publicidad.
+8. SEGURIDAD
+Sus datos están protegidos bajo los protocolos de seguridad de Google Cloud y Firebase, minimizando el riesgo de pérdida, mal uso o acceso no autorizado.
+9. CONTACTO
+Si tiene dudas sobre cómo EarGuide gestiona su privacidad, escriba a: [Tu Email de Soporte]
